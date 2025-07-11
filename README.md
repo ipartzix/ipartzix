@@ -1,6 +1,6 @@
 ### 🚀 About Me:
 
-🔹 **2nd-year CS Student** | 
+🔹 **3rd-year CS Student** | 
 💡 **Passionate about DSA, Python, and C** | 🚀 Exploring **AI/ML & IoT**  
 🔹 **Aspiring AI/ML Engineer & Software Developer** | 🎯  
 🔹 **Focused on LeetCode, CS Core Subjects & Real-world Projects** 💻💙  
