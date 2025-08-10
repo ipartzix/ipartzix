@@ -90,9 +90,8 @@ I believe technology is not just about writing code but about **creating meaning
 ## 📄 Publications
 - **Training BCI-Based Assistive Technology for People with Disabilities**  
   *Rupam Hazra, Parag Chatterjee, Soumen Ghosh, Partha Paul, Sudeep Biswas*  
-  Global Institute of Management & Technology, Krishnanagar, India
-  
-  https://doi.org/10.4018/979-8-3693-9445-8.ch018
+  Global Institute of Management & Technology, Krishnanagar, India  
+  📎 [View Profile & Publication on IGI Global](https://www.igi-global.com/affiliate/partha-paul/514208)
 
 ---
 
