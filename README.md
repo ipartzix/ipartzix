@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Partha Paul</h1>
-<h3 align="center">Core CS Engineer | AI/ML Practitioner | Systems Developer</h3>
+<h3 align="center">Core CS Engineer | AI/ML Engineer  | Systems Developer</h3>
 <p align="center">
   <em>Turning big dreams into impactful code, one project at a time.</em>
 </p>
