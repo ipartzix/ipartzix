@@ -84,14 +84,22 @@ I am always learning to stay at the cutting edge. My current focus is on:
 
 ---
 
-## 📄 Publications
-**Training BCI-Based Assistive Technology for People with Disabilities**
-*Rupam Hazra, Parag Chatterjee, Soumen Ghosh, Partha Paul, Sudeep Biswas*
-Global Institute of Management & Technology, Krishnanagar, India.
+## Publications
 
-📎 **[View Profile & Publication on IGI Global](https://www.igi-global.com/affiliate/partha-paul/514208)**
+### Training BCI-Based Assistive Technology for People with Disabilities  
+**Rupam Hazra**, **Parag Chatterjee**, **Soumen Ghosh**, **Partha Paul**, **Sudeep Biswas**  
+Global Institute of Management & Technology, Krishnanagar, India  
+
+[![View Publication](https://img.shields.io/badge/View%20Publication-IGI%20Global-1f6feb?style=for-the-badge)](https://www.igi-global.com/affiliate/partha-paul/514208)
 
 ---
+
+### Branding and Identity Through Culturally Sensitive Generative AI  
+**Rupam Hazra**, **Parag Chatterjee**, **Partha Paul** , **Soumen Ghosh**  
+Global Institute of Management & Technology, Krishnanagar, India  
+
+[![View Publication](https://img.shields.io/badge/View%20Publication-IGI%20Global-1f6feb?style=for-the-badge)](https://www.igi-global.com/gateway/chapter/400546)
+
 
 ## 🖋 Personal Philosophy
 - **Learn Relentlessly** — The more I learn, the more I realize there’s more to learn.
