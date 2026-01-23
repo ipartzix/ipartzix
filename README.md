@@ -7,9 +7,9 @@
 ---
 
 ## 💡 About Me
-I’m a **passionate and hardworking Computer Science Engineering student** (3rd year, 5th semester) driven by curiosity and a vision to create technologies that solve real-world problems. I thrive under deadlines and am committed to delivering **clean, efficient, and scalable code**.
+I am a Computer Science undergraduate focused on building **robust, scalable, and performance-driven software systems**.  
 
-My mission is to build a deep mastery of **Core CS fundamentals**—from the OS and DBMS to complex algorithms—and apply them to build intelligent, high-performance **AI/ML** and **System-Level** applications.
+My core strength lies in **fundamental computer science (DSA, OS, DBMS, CN)** combined with **practical AI/ML engineering**, with an emphasis on writing clean, well-structured, and production-ready code.
 
 ---
 
