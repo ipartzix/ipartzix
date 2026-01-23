@@ -14,11 +14,23 @@ My core strength lies in **fundamental computer science (DSA, OS, DBMS, CN)** co
 ---
 
 ## 🎯 Core Competencies
-- **Core CS:** In-depth knowledge of Data Structures, Algorithms (DSA), Operating Systems (OS), DBMS, and Computer Networks (CN).
-- **AI/ML:** Model building, data preprocessing, and workflow implementation (from data to deployment).
-- **Programming Languages:** Proficient in **Python**, **Java**, **C**, and **C++** for diverse applications.
-- **Backend Development:** Building server-side logic and APIs using **Flask**.
-- **Web Fundamentals:** Basic front-end design with **HTML5** and **CSS3**.
+
+**Core Computer Science**
+- Data Structures & Algorithms (problem solving, optimization)
+- Operating Systems (processes, memory, concurrency)
+- DBMS (design, queries, normalization, transactions)
+- Computer Networks (protocols, networking fundamentals)
+
+**AI / Machine Learning**
+- End-to-end ML workflows (data → training → evaluation)
+- Computer Vision & Deep Learning
+- Model experimentation, metrics, and optimization
+- Practical use of modern AI APIs and tools
+
+**Programming & Engineering**
+- Python, Java, C, C++
+- Backend development with Flask
+- Git, Linux, and engineering-grade development workflows
 
 ---
 
