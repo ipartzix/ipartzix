@@ -151,7 +151,6 @@ Beyond the command line, I love exploring the world and developing non-code skil
 <a href="https://www.leetcode.com/ipartzix" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white" /></a>
 <a href="https://auth.geeksforgeeks.org/user/ipartzix" target="blank"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=geeksforgeeks&logoColor=white" /></a>
 </p>
----
 
 ## Profile Views
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ipartzix&label=Total%20Profile%20Views&color=0e75b6&style=flat" alt="Profile Views Counter" /> </p>
