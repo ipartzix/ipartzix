@@ -1,5 +1,6 @@
+<h1 align="center">PARTHA PAUL</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Partha%20Paul&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Machine%20Learning%20Engineer&descSize=18&descAlignY=55&textBg=false"/>
+  <strong>Machine Learning Engineer | AI Researcher</strong>
 </p>
 
 <p align="center">
@@ -12,11 +13,8 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+  Focused on building reliable <b>Machine Learning systems</b> using strong foundations in algorithms, data processing, and system-oriented software engineering. Currently pursuing B.Tech in Computer Science (2027) with a deep interest in end-to-end ML workflows.
 </p>
-
-## 👨‍💻 About Me
-Focused on building reliable **Machine Learning systems** using strong foundations in algorithms, data processing, and system-oriented software engineering. Currently pursuing Computer Science Engineering (Class of 2027), with a deep interest in end-to-end ML workflows and core CS fundamentals.
 
 ---
 
@@ -65,7 +63,7 @@ Focused on building reliable **Machine Learning systems** using strong foundatio
 **Partha Paul**, Rupam Hazra, Parag Chatterjee, Soumen Ghosh, Sudeep Biswas
 *Published in IGI Global*
 
-> **Summary:** Developed a framework for Brain-Computer Interface (BCI) systems, focusing on optimizing neural signal processing to enhance accessibility for individuals with physical disabilities.
+> **Summary:** Developed a framework for Brain-Computer Interface (BCI) systems, focusing on optimizing neural signal processing to enhance accessibility.
 
 <p align="left">
   <a href="https://www.igi-global.com/affiliate/partha-paul/514208">
@@ -79,7 +77,7 @@ Focused on building reliable **Machine Learning systems** using strong foundatio
 **Partha Paul**, Rupam Hazra, Parag Chatterjee, Soumen Ghosh
 *Published in IGI Global*
 
-> **Summary:** Investigated the implementation of Generative AI in branding, focusing on fine-tuning models to respect cultural nuances and ethical standards in global marketing.
+> **Summary:** Investigated the implementation of Generative AI in branding, focusing on fine-tuning models to respect cultural nuances.
 
 <p align="left">
   <a href="https://www.igi-global.com/gateway/chapter/400546">
@@ -89,7 +87,7 @@ Focused on building reliable **Machine Learning systems** using strong foundatio
 
 ---
 
-## 📊 GitHub Analytics & Trophies
+## 📊 GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ipartzix&show_icons=true&theme=dark&border_radius=10" height="180em" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=ipartzix&theme=dark&hide_border=true" height="180em" alt="GitHub Streak" />
@@ -98,7 +96,9 @@ Focused on building reliable **Machine Learning systems** using strong foundatio
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=ipartzix&theme=dark&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </p>
-
+<p align="center">
+  <img src="https://stats.pphat.top/languages?username=ipartzix" width="800" />
+</p>
 ---
 
 ## 🚀 Professional Profiles & Coding
@@ -133,12 +133,7 @@ Focused on building reliable **Machine Learning systems** using strong foundatio
 
 ## ☕ Support My Work
 <p align="center">
-  If you find my projects or research helpful, consider supporting my journey!<br><br>
   <a href="https://www.buymeacoffee.com/ipartzix">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
   </a>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
