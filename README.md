@@ -120,7 +120,6 @@
   <a href="https://x.com/ipartzix"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="35" /></a>&nbsp;
   <a href="https://instagram.com/ipartzix"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" width="35" /></a>&nbsp;
   <a href="https://facebook.com/ipartzix"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="35" /></a>&nbsp;
-  <a href="https://wa.me/9106296379434"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="35" /></a>&nbsp;
   <a href="https://t.me/ipartzix"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="35" /></a>
 </p>
 
