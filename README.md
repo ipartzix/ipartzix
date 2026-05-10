@@ -87,7 +87,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ipartzix&show_icons=true&theme=dark&border_radius=10" height="180em" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com/?user=ipartzix&theme=dark&hide_border=true" height="180em" alt="GitHub Streak" />
@@ -99,9 +99,9 @@
 <p align="center">
   <img src="https://stats.pphat.top/languages?username=ipartzix" width="800" />
 </p>
----
 
-## 🚀 Professional Profiles & Coding
+
+##  Professional Profiles & Coding
 <p align="center">
   <a href="https://leetcode.com/ipartzix">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
@@ -114,7 +114,7 @@
   </a>
 </p>
 
-## 🌐 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://linkedin.com/in/ipartzix"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="35" /></a>&nbsp;
   <a href="https://x.com/ipartzix"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" width="35" /></a>&nbsp;
@@ -128,7 +128,6 @@
   <a href="mailto:parthapaul2705@gmail.com">parthapaul2705@gmail.com</a> | <a href="mailto:ipartzix@gmail.com">ipartzix@gmail.com</a>
 </p>
 
----
 
 ## ☕ Support My Work
 <p align="center">
