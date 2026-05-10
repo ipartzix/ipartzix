@@ -18,9 +18,9 @@
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
-### 🚀 Programming Languages
+###  Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
-### 🧠 AI / ML Libraries & Data Science
+###  AI / ML Libraries & Data Science
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-### 🌐 Web & Backend Development
+###  Web & Backend Development
 <p align="left">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -46,7 +46,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -57,7 +57,7 @@
 
 ---
 
-## 📝 Research & Publications
+##  Research & Publications
 
 ### 📄 Training BCI-Based Assistive Technology for People with Disabilities
 **Partha Paul**, Rupam Hazra, Parag Chatterjee, Soumen Ghosh, Sudeep Biswas
