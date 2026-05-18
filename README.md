@@ -129,7 +129,7 @@
 </p>
 
 
-## ☕ Support My Work
+##  Support My Work
 <p align="center">
   <a href="https://www.buymeacoffee.com/ipartzix">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 180px !important;" >
