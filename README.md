@@ -101,6 +101,7 @@
 </p>
 
 
+
 ##  Professional Profiles & Coding
 <p align="center">
   <a href="https://leetcode.com/ipartzix">
@@ -122,6 +123,7 @@
   <a href="https://facebook.com/ipartzix"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Facebook.svg" width="35" /></a>&nbsp;
   <a href="https://t.me/ipartzix"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Telegram.svg" width="35" /></a>
 </p>
+
 
 <p align="center">
   <strong>📧 Direct Mail:</strong><br>
